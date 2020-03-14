@@ -52,7 +52,7 @@
 <body>
 <div class="header">
  <div class="am-g">
-  <h1>iPLUS7</h1>
+  <h1>iPLUS7's PRIVATE LETTER SYSTEM</h1>
   <p>Integrated Development Environment<br/>
 <%--   代码编辑，代码生成，界面设计，调试，编译--%>
   </p>

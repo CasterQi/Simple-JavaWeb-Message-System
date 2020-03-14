@@ -101,8 +101,6 @@ public class messageServlet extends HttpServlet {
                 //ResultSet rs = st.executeQuery(sql);
                 //List<Message> messageList = new ArrayList<Message>();
                 //Message message=new Message("","","","","");
-
-
                 //messageList.add(new Message("","","","",""));
                 //将数据库中查询到的信息封装在user对象中，use对象保存在request中，之后将通过request对象将数据传递到页面
                 //需要的话也可以只传递一个参数request.setAttribute("id", user.getId());
