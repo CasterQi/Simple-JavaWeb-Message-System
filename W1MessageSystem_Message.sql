@@ -1,0 +1,11 @@
+INSERT INTO W1MessageSystem.Message (note, senderName, receiverName, postTime, readSign) VALUES ('helloWorld', 'null', 'everyone', '1111-11-11', 'No');
+INSERT INTO W1MessageSystem.Message (note, senderName, receiverName, postTime, readSign) VALUES ('helloWorld2', 'null', 'everyone', '1111-11-11', 'No');
+INSERT INTO W1MessageSystem.Message (note, senderName, receiverName, postTime, readSign) VALUES ('helloWorld3', 'null', 'iii80', '1111-11-11', 'No');
+INSERT INTO W1MessageSystem.Message (note, senderName, receiverName, postTime, readSign) VALUES ('helloWorld3', 'iii8', 'iii80', '1111-11-11', 'No');
+INSERT INTO W1MessageSystem.Message (note, senderName, receiverName, postTime, readSign) VALUES ('helloWorld3', 'iii8', 'iii80', '1111-11-11:adf', 'yes');
+INSERT INTO W1MessageSystem.Message (note, senderName, receiverName, postTime, readSign) VALUES ('aasdf', 'iii8', 'afasf', '2020-03-13 23:56:15', 'Yes');
+INSERT INTO W1MessageSystem.Message (note, senderName, receiverName, postTime, readSign) VALUES ('asdfasd', 'iii8', 'asdf', '2020-03-13 23:57:13', 'Yes');
+INSERT INTO W1MessageSystem.Message (note, senderName, receiverName, postTime, readSign) VALUES ('asdfasd', 'iii8', 'asdf', '2020-03-14 00:01:34', 'Yes');
+INSERT INTO W1MessageSystem.Message (note, senderName, receiverName, postTime, readSign) VALUES ('asdf', 'iii8', 'aa', '2020-03-14 00:02:26', 'Yes');
+INSERT INTO W1MessageSystem.Message (note, senderName, receiverName, postTime, readSign) VALUES ('jjjjj', 'iii8', 'iii9', '2020-03-14 10:29:42', 'Yes');
+INSERT INTO W1MessageSystem.Message (note, senderName, receiverName, postTime, readSign) VALUES ('test', 'iii9', 'iii9', '2020-03-14 10:31:55', 'Yes');
